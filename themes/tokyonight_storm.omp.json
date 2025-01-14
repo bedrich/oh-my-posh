@@ -62,7 +62,8 @@
           "template": " \uf00d"
         }
       ],
-      "type": "prompt"
+      "type": "prompt",
+      "newline": true
     },
     {
       "alignment": "right",
